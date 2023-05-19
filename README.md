@@ -9,10 +9,10 @@ Autoencoder is an unsupervised artificial neural network that is trained to copy
 </br>
 We are using MNIST Dataset for this experiment. The MNIST dataset is a collection of handwritten digits. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively. The dataset has a collection of 60,000 handwrittend digits of size 28 X 28. Here we build a convolutional neural network model that is able to classify to it's appropriate numerical value.
 
-<img src="ot4.png">
+<img src="ot4.png" width=315>
 
 ## Convolution Autoencoder Network Model
-<img src="ot5.png">
+<img src="ot5.png" width=515>
 
 ## DESIGN STEPS
 
@@ -165,14 +165,14 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![](./ot1.PNG)
+<img src="ot1.png" width=315>
 
 ### Model Summary
-![](./ot2.PNG)
+<img src="ot2.png" width=315>
 
 
 ### Original vs Noisy Vs Reconstructed Image
-![](./ot3.PNG)
+<img src="ot3.png" width=515>
 
 ## RESULT
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
