@@ -164,13 +164,19 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+<p>
 <img width="415" alt="image" src="./ot1.png">
+</p>
 
 ### Model Summary
+</p>
 <img width="415" alt="image" src="./ot2.png">
+</p>
 
 ### Original vs Noisy Vs Reconstructed Image
+</p>
 <img width="515" alt="image" src="./ot3.png">
+</p>
 
 ## RESULT
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
